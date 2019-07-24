@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(45deg, white, #fff0f0, white), no-repeat, cover;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+h1 {
+    font-family: 'Unica One', cursive;
+    color: green;
+}
+
+p {
+    font-family: 'Vollkorn', serif;
+}
