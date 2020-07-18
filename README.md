@@ -1,6 +1,6 @@
 ## Overview
 
-Check out the app here : https://mmnos.github.io/Psychic-Game/
+Check out the app here : https://mmnos.github.io/psychic-game/
 
 This app presents the user with a super simple, clean, and elegant user interface accompanied by very easy-to-use controls.
 
